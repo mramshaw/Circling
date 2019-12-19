@@ -1,5 +1,7 @@
 # Circling
 
+[![CircleCI](https://circleci.com/gh/mramshaw/Circling.svg?style=svg)](https://circleci.com/gh/mramshaw/Circling)
+
 Getting familiar with CircleCI
 
 ## Credits
